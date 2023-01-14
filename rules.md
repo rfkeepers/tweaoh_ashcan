@@ -1,7 +1,7 @@
 # That What Echoes Across Our Home
 A city building game which guides you along the discovery and mapping of a new city, its districts, and its landmarks.  Along the way you'll create generations of residents, communities, and factions and investigate what parts of the city they claim as their own, their clashes amongst themselves, and the heritage they leave to the city in their wake.
 
-![cover](./tweaoh_cover.png)
+![cover](./images/cover.png)
 
 ## Preparation
 To play this game you'll need a couple players (probably 3-5, though less or more is also fine) and some dice for rolling on tables (one of each: d6, d8, d10, d12). If you're playing in person, you'll need one or more blank sheets of paper, some pencils, and maybe scissors; if you're online, you'll need a shared drawing or whiteboard program.  Additional material for note keeping such as index cards or a notebook or google doc is recommended, but not necessary.
@@ -51,7 +51,7 @@ Third: is this a statement you can ultimately live with?  Cities are multifacete
 These details, as difficult to accept as they are, put the city in motion.  Discontent seeds action.  It brings out the want to change and improve.  Shared authorship is often joyous and invigorating.  It can also become frustrating and contentious.  Respect your fellow players' right to tell a story that makes you unhappy or uncomfortable.  You will, through play, have the opportunity to make it better.
 
 ---
-![mapping phase](./tweaoh_mapping.png)
+![mapping phase](./images/mapping.png)
 
 # Mapping The City
 The first phase of play is mapping. In this phase you'll design the layout of the city: its districts, its landmarks, the primary roads and other means of transport, and the land surrounding the city.  What you add in this phase is permanent, lasting throughout the rest of the game.
@@ -106,7 +106,7 @@ Taking turns, each player names and describes a section of the land outside the 
 _! Reminder: pass the Starting Player role to the next player._
 
 ---
-![residents phase](./tweaoh_residents.png)
+![residents phase](./images/residents.png)
 
 # The Residents
 The second phase of play tracks the generations of communities that inhabit the city.  In this phase you'll describe the a community of peopel: the places they claim as their own, the figures that stand out from the crownd, the ways they meet and clash, the notable things they add to the city (or remove from it) and the things they give to the city entirely.
