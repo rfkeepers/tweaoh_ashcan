@@ -1,4 +1,4 @@
-![condensed rules](./tweaoh_condensed.png)
+![condensed rules](./images/condensed.png)
 
 # Condensed Play Guide
 
