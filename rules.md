@@ -9,7 +9,7 @@ To play this game you'll need a couple players (probably 3-5, though less or mor
 If many people are playing the game for the first time, read the rules aloud when you get to them.
 
 ## The Starting Player
-Whomever played this game most recently (or, if no one has played, whomever feels they know the rules the best) acts as the Starting Player.  The starting player has two roles: first, they guide everyone through the rules of the game, reading or assigning readers for each section.  Second, whenver the rules say "one at a time" or "taking turns", we begin with the starting player and go around the table from there.
+Whomever played this game most recently (or, if no one has played, whomever feels they know the rules the best) acts as the Starting Player.  The starting player has two roles: first, they guide everyone through the rules of the game, reading or assigning readers for each section.  Second, whenever the rules say "one at a time" or "taking turns", we begin with the starting player and go around the table from there.
 
 At the end of each phase (once at the end of Mapping, and then at the end of each Generation of residents), the Starting Player role is handed off to the next player at the table.
 
@@ -30,7 +30,7 @@ Start a conversation at the table and answer the following questions.  Take as m
 
 If you haven't explored safety tools before, I highly recommend you take a moment to do so no.  We will not spend ink where so many others have written well on the subject already.  A succinct primer can be read on [Anne LoVerso's blog](https://www.anneloverso.com/rpg-safety-tools), but many other insights and tools exist out there for you to adopt.
 
-* What is the tone of the session?  Light hearted idealism, harsh reality, epic grandure, or something else?
+* What is the tone of the session?  Light hearted idealism, harsh reality, epic grandeur, or something else?
 * Which themes or topics do you want to avoid?
 * Which themes or topics are you eager to include?
 * What safety tools are in place?
@@ -42,7 +42,7 @@ In this moment we establish an essential pillar of the game: everyone at the tab
 
 At some point during play you're going to hear another player say something that doesn't sit well with you.  Perhaps their tone feels a little off.  Maybe their statement contradicts something you thought was already established.  Or, most simply, what you heard was difficult to process or fills you with anxiety, anger, or disgust.  When this happens, there are three questions you should evaluate.
 
-First: do you think their statement doesn't match the era, genre, tone, or safety established by the table?  If so (especially so, if it compromises safety), ask that player to reasses what they said.  It may only take a small change of wording or explanation to re-frame their statement in a way that fits with the table's established goals.  If not, it's better to catch and correct this deviation early, before further details build on it.
+First: do you think their statement doesn't match the era, genre, tone, or safety established by the table?  If so (especially so, if it compromises safety), ask that player to reassess what they said.  It may only take a small change of wording or explanation to re-frame their statement in a way that fits with the table's established goals.  If not, it's better to catch and correct this deviation early, before further details build on it.
 
 Second: do you think it contradicts previously established truths?  Explain to the player what it is you thought was established, and ask if they meant to change that truth.  The two of you may simply have different perspectives about what was previously established.
 
@@ -59,14 +59,14 @@ The first phase of play is mapping. In this phase you'll design the layout of th
 ## Walls
 With a blank sheet of paper (or blank layer in your drawing program) the starting player begins by sketching a simple outline to mark the outer walls of your city.  All players should contribute ideas, but only the starting player gets to draw.
 
-Once complete, the outline of your city should take up most, but not all, of the available space.  Leave some room around the sides to discover what lies outside.  Inside there should be plenty of room slicing up the area and mark landmarks througout.
+Once complete, the outline of your city should take up most, but not all, of the available space.  Leave a little space around the sides to discover what lies outside.  But the majority of the game is involves drawing the space inside these walls, so give yourselves plenty to work with.
 
 ## Districts
 Taking turns, each player creates a district by outlining a section within the walls of the city.  Districts can be larger or smaller and do not to be equally sized.  Their shape and positioning can be as irregular as the player wishes, but no two districts can overlap on the same spot, and every part of the city needs to be part of a district.
 
 Each player must add at least one district (only one per turn, though), and at most three, until the city has been completely partitioned. The placement of districts are permanent for the remainder of the game.
 
-Whenever you place a district, give it a name and a Design.  Use the table below for guide on possible designs.  Roll on it, or pick one that interersts you directly.  If you need a little more direction, there's additional tables for each design at the bottom of the rules.
+Whenever you place a district, give it a name and a Design.  Use the table below for guidance on possible designs.  Roll on it, or pick one that interests you directly.  If you need a little more direction, there's additional tables for each design at the bottom of the rules.
 
 |d10|Designs|||
 |---|---|---|---|
@@ -76,7 +76,7 @@ Whenever you place a district, give it a name and a Design.  Use the table below
 |4|institutional|9|natural preserve|
 |5|affluent|10|ruined or uninhabitable|
 
-Keep in mind that there is more to the district that what the Design describes.  All districts will have residences and stores, public and private spaces; but they were once created with a distinct purpose in mind, and that purpose sets the overarching theme of the area.  Finally, answer some of the following questions about the district.
+Keep in mind that there is more to the district than what the Design describes.  All districts will have residences and stores, public and private spaces; but they were once created with a distinct purpose in mind, and that purpose sets the overarching theme of the area.  Finally, answer some of the following questions about the district.
 
 * What does daily life look like in that space?
 * What sorts of people do you expect to see?
@@ -89,13 +89,13 @@ Taking turns, each player adds a landmark to the map.  A landmark is anything th
 |d10|Landmarks|||
 |---|---|---|---|
 |1|statue or fountain|6|marvel, wonder, or artwork|
-|2|school, university, or building|7|park or cemetary|
+|2|school, university, or building|7|park or cemetery|
 |3|place of worship|8|location of a historical event|
 |4|natural feature|9|marketplace|
 |5|significant architecture|10|bar or theater|
 
 ## Entrances and Exits
-Taking turns, each player creates one way to get in and out of the city.  This can be a simple a gate along the walls where a major road might be later placed, a giant mechanical lift, a port of entry or train station, or some manner of portal or apparative transport.  Entrances and exits can be secrets from the community, too; so long as it can get you in and out of the city, it counts.
+Taking turns, each player creates one way to get in and out of the city.  This can be as simple as a gate along the walls where a major road might be later placed, a giant mechanical lift, a port of entry or train station, or some manner of portal or apparative transport.  Entrances and exits can be secrets from the community, too; so long as it can get you in and out of the city, it counts.
 
 ## Roads and Transport
 One at a time, each player draws either two major roads or one common method of transport that gets people around the city.  A method of transport should be institutional: something reliable, something people will congregate around.  Think: trains, trolleys, gondolas, aviator roosts, pneumatic tube stations, etc.  Less structured transport- taxis, horse and carriage, rickshaws- those are in the city, too.  You don't need to point them out (though the extra flavor can be fun) and can just assume they exist.
@@ -109,14 +109,14 @@ _! Reminder: pass the Starting Player role to the next player._
 ![residents phase](./images/residents.png)
 
 # The Residents
-The second phase of play tracks the generations of communities that inhabit the city.  In this phase you'll describe the a community of peopel: the places they claim as their own, the figures that stand out from the crownd, the ways they meet and clash, the notable things they add to the city (or remove from it) and the things they give to the city entirely.
+The second phase of play tracks the generations of communities that inhabit the city.  In this phase you'll describe a community of people: the places they claim as their own, the figures that stand out from the crowd, the ways they meet and clash, the notable things they add to the city (or remove from it) and the things they give to the city entirely.
 
-This phase will repeat, with each iteration building on the last one.  We call each repetition a Generation, though that doesn't necessarily imply a single generation of people, in the genealogical sense.  The actual timespan of the Generation can be as long or as short as wanted.
+The residents phase will repeat three times, with each iteration building on the last one.  We call each repetition a Generation, though that doesn't necessarily imply a single generation of people, in the genealogical sense.  The actual timespan of the Generation can be as long or as short as wanted.
 
 ## Community
 To start the phase, all players take a few minutes on their own to create a new community.  For the rest of the generation, you, the player, will act as the author of this community.  Anyone at the table may ask questions about a community, but only the author has the final say on how the community acts, what it believes, and what it has endured.
 
-A community is comprised of three aspects: the ties that bind them, the characteristic that they live by, and the strength which makes them notable.  You can decide those for yourself if you want.  But if you need some inspiration, pick or roll from the table.
+A community is described by three aspects: the ties that bind them, the characteristic that they live by, and the strength which makes them notable.  You can decide those for yourself if you want.  But if you need some inspiration, pick or roll from the table.
 
 |d10|Ties||Character||Strength|
 |---|---|---|---|---|---|
@@ -147,14 +147,14 @@ Territories may overlap with each other.  If they do, all players who have marke
 Throughout play, territorial markings can build up and get pretty messy.  If you're playing online hopefully your whiteboard or drawing app has a system of layers which let you render each territory separately from other parts.  When in person these layers can be a lot harder to keep separated.  One trick you can try is to have some extra paper or 3x5 cards on hand.  Instead of drawing on top of the map, cut out the outline of your territory with a pair of scissors and place these separate slips on top of your drawn map.
 
 ## Events
-The starting player kicks us off: they select another player and propose an event which occurred between their two communities.  An event is any moment that is historically significant to both those people and to others in the city.  These moments can be sudden and short lived (a meeting, a clash, a fete) or prolongued movements (a project, a grudge, a holiday).
+The starting player kicks us off: they select another player and propose an event which occurred between their two communities.  An event is any moment that is historically significant to both those people and to others in the city.  These moments can be sudden and short lived (a meeting, a clash, a fete) or prolonged movements (a project, a grudge, a holiday).
 
 Once proposed, the table works together as a whole to talk about how the event ripples out through the city.  Take time to dig in and explore the results, asking each other questions along the way.  Do things change for people afterward?  Does the city treat these communities differently, or vice versa?
 
 Once done, the person who was chosen second then selects a player who hasn't been chosen yet and proposes another event.  Keep doing this until every player has proposed an event.
 
 ## Notable Persons
-One at a time, each player introduces a notable person or group within the community.  Name them, and say why the city recognizes thier importance.  This character is an instigator of change.  Through their life, work, or possibly even death, they will change the community forever.  They might be the seed from which the community began, or the height of its vitality, or someone that changed what the community believed and practiced.
+One at a time, each player introduces a notable person or group within the community.  Name them, and say why the city recognizes their importance.  This character is an instigator of change.  Through their life, work, or possibly even death, they will change the community forever.  They might be the seed from which the community began, or the height of its vitality, or someone that changed what the community believed and practiced.
 
 Once a notable person or group is introduced, each other player takes a turn asking one of the following questions.  Take a moment to discuss the answers, and their implications on the city, as a table.
 
@@ -194,11 +194,11 @@ A terrible event shakes the city and all its residents.  The starting player dec
 |5|climate or natural disaster|
 |6|person-made disaster|
 
-This upheval may occur briefly, it may suddenly boom and then linger, or it may drag on for years, even generations, to come. Residents in the tumult will join together and turn apart.  They will form and break bonds.  Find new family, swear grudges, draw and redraw lines between each other.  Eventually the city stabilizes, settling into a new normal, and play begins again.
+This upheaval may occur briefly, it may suddenly boom and then linger, or it may drag on for years, even generations, to come. Residents in the tumult will join together and turn apart.  They will form and break bond, find new family, swear grudges, draw and redraw the boundaries between each other.  Eventually the city stabilizes, settling into a new normal, and play begins again.
 
 One at a time, each player asks the table one question from the following list (or a different question, if you have one in mind).  Everyone may contribute to the answer.  Use these questions to explore the ramifications of the event and to paint images of the city through this time.
 
-* Could this have been predicted, and if it was, were prepartions made in advance?
+* Could this have been predicted, and if it was, were preparations made in advance?
 * Who interprets this as an act of some greater will, divine authority, or just retribution?  What doomsaying did they preach beforehand?
 * Did people do this intentionally?  Was it accidental?  What was their goal?
 * What communities (you may include those that were not authored this generation) were hit the hardest?
@@ -209,11 +209,11 @@ One at a time, each player asks the table one question from the following list (
 While you answer these questions, you may find an urge to describe your community directly; the ways they respond and change to the context.  But remember, you've given up authorship.  Drop hints, make suggestions, but don't tell others what happens with certainty.  We'll find out what happens to your community in the next phase.
 
 ### Third
-If this is end of the first or second generation, everyone goes back to the start of the community phase to investigate a new generation of residents.  (Reminder: pass the Starting Player role to the next player).
+If this is the end of the first or second generation, everyone goes back to the start of the community phase to investigate a new generation of residents.  (Reminder: pass the Starting Player role to the next player).
 
-What happened to the communities of the prior generation?  That's for everyone to decide now.  When making your next community, think about how they could have been shaped by those that lived before them.  How does prior territory influence new claim?  Are the old beliefs rejected, accomodated, or exalted?
+What happened to the communities of the prior generation?  That's for everyone to decide now.  When making your next community, think about how they could have been shaped by those that lived before them.  How does prior territory influence the next claim?  Are the old beliefs rejected, accommodated, or exalted?
 
-Especially important is to remember that communities are organic; alive and changing.  People don't freeze in time just becase the game carried on to a new generation.  Everyone shares authorship of the city; that includes the communities of past generations.  Respect the source material (who the community is, what they believed in, how they acted), but also be bold and write history that leverages their growth or disappearance, their successes and failures, and the ways they have shaped the current residents of the city.
+Especially important is to remember that communities are organic; alive and changing.  People don't freeze in time just because the game carried on to a new generation.  Everyone shares authorship of the city; that includes the communities of past generations.  Respect the source material (who the community is, what they believed in, how they acted), but also be bold and write history that leverages their growth or disappearance, their successes and failures, and the ways they have shaped the current residents of the city.
 
 If this is the third generation, the game is done.  Whatever state you've left the city in is now the current day, and all that might happen from here is an unexplored future with, I hope, thriving potential.
 
